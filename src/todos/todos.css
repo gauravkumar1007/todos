@@ -1,0 +1,22 @@
+.todo-input{
+	height: 20px;
+	width: 150px;
+	border-radius: 4px;
+}
+
+.todo-btn{
+	height: 25px;
+	width: 50px;
+	border-radius: 4px;
+	margin-left: 15px;
+}
+
+.todo-list {
+	list-style: lower-alpha;
+}
+
+.in-active-todo{
+	margin-top: 2pt;
+    margin-bottom: 2pt;
+    text-decoration: line-through;
+}
